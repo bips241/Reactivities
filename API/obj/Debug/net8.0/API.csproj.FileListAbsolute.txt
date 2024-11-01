@@ -137,3 +137,4 @@ C:\Users\Biplab\projects\webapi\Reactivities\API\bin\Debug\net8.0\runtimes\win-a
 C:\Users\Biplab\projects\webapi\Reactivities\API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Biplab\projects\webapi\Reactivities\API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Biplab\projects\webapi\Reactivities\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Biplab\projects\webapi\Reactivities\API\obj\Debug\net8.0\API.sourcelink.json

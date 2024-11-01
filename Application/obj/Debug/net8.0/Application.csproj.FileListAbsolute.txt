@@ -15,3 +15,4 @@ C:\Users\Biplab\projects\webapi\Reactivities\Application\obj\Debug\net8.0\Applic
 C:\Users\Biplab\projects\webapi\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\Biplab\projects\webapi\Reactivities\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\Biplab\projects\webapi\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Biplab\projects\webapi\Reactivities\Application\obj\Debug\net8.0\Application.sourcelink.json
